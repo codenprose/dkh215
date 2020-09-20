@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on [nolibs](https://nolibs.io)
+- 🌱 I’m currently learning about algorithms, data structures, and system design
+- ✍🏽 I'm a contributor with Free Code Camp
+- 💬 Ask me about education
+- 📫 How to reach me: [@danielkhunter](https://twitter.com/danielkhunter)
+- 😄 Pronouns: He/Him
+
 <!--
 **dkh215/dkh215** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
