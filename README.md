@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on [nolibs](https://nolibs.io)
 - 🌱 I’m currently learning about algorithms, data structures, and system design
-- ✍🏽 I'm a contributor with [Free Code Camp](https://www.freecodecamp.org/news/mornings-nights-and-weekends-how-i-changed-careers-and-became-a-programmer-197ce46ccc1c)
+- ✍🏽  I'm a contributor with [Free Code Camp](https://www.freecodecamp.org/news/mornings-nights-and-weekends-how-i-changed-careers-and-became-a-programmer-197ce46ccc1c)
 - 💬 Ask me about education
 - 📫 How to reach me: [@danielkhunter](https://twitter.com/danielkhunter)
 - 😄 Pronouns: He/Him
