@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [nolibs](https://nolibs.io)
+- 🔭 I’m currently working on [otis](https://www.withotis.com/)
 - 🌱 I’m currently learning about algorithms, data structures, and system design
 - ⚡ I'm a contributor with [Free Code Camp](https://www.freecodecamp.org/news/mornings-nights-and-weekends-how-i-changed-careers-and-became-a-programmer-197ce46ccc1c)
-- 💬 Ask me about education and community
+- 💬 Ask me about education, finance, and community
 - 📫 How to reach me: [@danielkhunter](https://twitter.com/danielkhunter)
 - 😄 Pronouns: He/Him
 
