@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [Otis](https://www.withotis.com/)
-- 🌱 I’m currently learning about algorithms, data structures, and systems design
+- 🔭 I’m currently working on [Crossbeam](https://www.crossbeam.com/) and [Pain Points](https://www.painpoints.io/)
+- 🌱 I’m currently learning about pyschology, ux research, and personal knowledge management
 - ⚡ I'm a contributor with [Free Code Camp](https://www.freecodecamp.org/news/mornings-nights-and-weekends-how-i-changed-careers-and-became-a-programmer-197ce46ccc1c)
 - 💬 Ask me about education, finance, and community
 - 📫 How to reach me: [@danielkhunter](https://twitter.com/danielkhunter)
