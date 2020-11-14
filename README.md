@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on [Crossbeam](https://www.crossbeam.com/) and [Pain Points](https://www.painpoints.io/)
-- 🌱 I’m currently learning about pyschology, ux research, and personal knowledge management
+- 🌱 I’m currently learning about pyschology and user research
 - ⚡ I'm a contributor with [Free Code Camp](https://www.freecodecamp.org/news/mornings-nights-and-weekends-how-i-changed-careers-and-became-a-programmer-197ce46ccc1c)
-- 💬 Ask me about education, finance, and community
+- 💬 Ask me about education, entrepreneurship, and community
 - 📫 How to reach me: [@danielkhunter](https://twitter.com/danielkhunter)
 - 😄 Pronouns: He/Him
 
