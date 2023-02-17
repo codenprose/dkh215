@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently an Engineering Manager at [Crossbeam](https://www.crossbeam.com/)
-- 🌱 Learning Clojure
+- 👨‍🏫 Teaching Computer Science and Programming
 - ⚡ Contributor with [Free Code Camp](https://www.freecodecamp.org/news/mornings-nights-and-weekends-how-i-changed-careers-and-became-a-programmer-197ce46ccc1c)
 - 💬 Ask me about education, entrepreneurship, and community
 - 📫 How to reach me: [@danielkhunter](https://twitter.com/danielkhunter)
