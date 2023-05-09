@@ -4,7 +4,7 @@
 - 👨‍🏫 Teaching Computer Science and Programming
 - ⚡ Contributor with [Free Code Camp](https://www.freecodecamp.org/news/mornings-nights-and-weekends-how-i-changed-careers-and-became-a-programmer-197ce46ccc1c)
 - 💬 Ask me about education, entrepreneurship, and community
-- 📫 How to reach me: [@danielkhunter](https://twitter.com/danielkhunter)
+- 📫 How to reach me: [@codenprose](https://twitter.com/codenprose)
 - ❤️ dkh215 is a nod to the City of Brotherly Love where I got my first gig at [P'unk Ave](https://punkave.com/)
 - 😄 Pronouns: He/Him
 
